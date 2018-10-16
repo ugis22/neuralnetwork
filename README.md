@@ -6,3 +6,6 @@ As a consequence, the goal of this project is to understand and build a neural n
 
 ## What is a Neural Network?
 
+The neural networks that we are going to considered are strictly called artificial neural networks, and as the name suggests, are based on what science knows about the human brain's structure and function. 
+
+Briefly, a neural network is defined as a computing system that consist of a number of simple but highly interconnected elements, called "neurons", that are organized in layers which process information using dynamic state responses to external inputs.
