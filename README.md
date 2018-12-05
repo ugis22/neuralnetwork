@@ -12,8 +12,6 @@ Briefly, a neural network is defined as a computing system that consist of a num
 
 ## What does this repository contain?
 
-In this repository, there are two jupyter notebooks explained below:
+In this repository, there is a jupyter notebook explained below:
 
 * `Simple neural network.ipynb` explained how to create a simple neural network using a made-up input, a two layers containing sigmoid neurons and synapsis matrix, calculating the error to update weights.
-
-* `Neural network.ipynb`
